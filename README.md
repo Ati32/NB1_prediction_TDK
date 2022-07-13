@@ -1,5 +1,7 @@
 # Predicting the results of Hungarian football matches with machine learning
 
+Github repo for our work which got us 1st place at the Students' Scientific Conference at BME in the PE section, and 2nd place at the 35th National Students' Scientific Conference (OTDK).
+
 **Contributors:** Pintér József, Ragács Attila, Molontay Roland
 
 **Goal:** Building machine learnign models on individual match data to predict future statistics. Based on these predictions, generate expected goals and final results while also taking into account the recent form of teams. Finally, using this system develop a profitable betting strategy.
